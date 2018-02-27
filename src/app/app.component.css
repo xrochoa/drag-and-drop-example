@@ -1,0 +1,17 @@
+#draggable {
+  height: 100px;
+  width: 100px;
+  background: dodgerblue;
+  margin: 20px;
+}
+
+#droppable {
+  height: 100px;
+  width: 100px;
+  background: aquamarine;
+  margin: 20px;
+}
+
+p {
+  user-select: none;
+}
